@@ -1,0 +1,7 @@
+node_modules/
+downloads/
+files/cache/
+files/*.txt
+files/json/*.json
+!1_and_2.json
+!1_and_2.txt
