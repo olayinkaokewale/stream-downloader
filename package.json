@@ -1,5 +1,5 @@
 {
-  "name": "downloader",
+  "name": "stream-downloader",
   "version": "1.0.0",
   "description": "",
   "main": "download.js",
